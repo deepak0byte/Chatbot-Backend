@@ -1,9 +1,9 @@
 /client/node_modules
-/backend/node_modules
 /node_modules
-/backend/local_cache
-/backend/.env
-/backend/uploads
+/node_modules
+/local_cache
+/.env
+/uploads
 /client/.env
 # Logs
 logs
